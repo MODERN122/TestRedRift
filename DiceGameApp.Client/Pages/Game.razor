@@ -1,0 +1,93 @@
+﻿@page "/game/{SessionId}/{PlayerId}"
+@using DiceGameApp.Shared
+@using Microsoft.AspNetCore.SignalR.Client
+@inject HttpClient Http
+@inject NavigationManager Navigation
+@inject IJSRuntime JS
+
+<h3>Game Session</h3>
+
+@if (Session != null)
+{
+    <div>
+        <p><strong>Game:</strong> @Session.Id</p>
+        <p><strong>Finished:</strong> @Session.IsFinished</p>
+        <p><strong>Player 1:</strong> @Session.Player1?.Name</p>
+        <p><strong>Player 2:</strong> @Session.Player2?.Name</p>
+        @* <p><strong>Current Turn:</strong> @currentPlayerName</p> *@
+
+        <button @onclick="RollNormalDice" disabled="@isEnemyTurn">Roll Normal Dice</button>
+        <button @onclick="RollSpecialDice" disabled="@isEnemyTurn">Roll Special Dice</button>
+    </div>
+
+    <hr />
+
+    <h4>Turn History</h4>
+    <ul>
+        @foreach (var turn in Session.Turns)
+        {
+            @if (turn.SpecialDiceRoll.HasValue)
+            {
+                <li>
+                    <strong>@turn.PlayerId</strong>:
+                    Special Dice Roll: @turn.SpecialDiceRoll
+                </li>
+            }
+            else
+            {
+                <li>
+                    <strong>@turn.PlayerId</strong>:
+                    Rolls: @turn.DiceRoll1, @turn.DiceRoll2, @turn.DiceRoll3
+                </li>
+            }
+                <li>@turn.TurnNumber</li>
+        }
+    </ul>
+
+    @if (Session.IsFinished)
+    {
+        <h2>Game Over!</h2>
+        <p>Winner: @Session.WinnerId</p>
+        @* <button @onclick="Rematch">Rematch</button> *@
+    }
+}
+else
+{
+    <p>Loading game session...</p>
+}
+
+@code {
+    [Parameter]
+    public string SessionId { get; set; }
+    [Parameter]
+    public string PlayerId { get; set; }
+    public GameSession Session { get; set; }
+    private HubConnection hubConnection;
+    private bool isEnemyTurn { get; set; } = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(new Uri("https://localhost:7250" + "/gameHub"))
+            .Build();
+
+        hubConnection.On<GameSession>("ReceiveRollResult", async (updatedSession) =>
+        {
+            Session = updatedSession;
+            StateHasChanged();
+        });
+
+        await hubConnection.StartAsync();
+        await hubConnection.SendAsync("JoinGame", SessionId);
+    }
+
+    private async Task RollNormalDice()
+    {
+        await hubConnection.SendAsync("RollDice", SessionId, PlayerId, false);
+    }
+
+    private async Task RollSpecialDice()
+    {
+        await hubConnection.SendAsync("RollDice", SessionId, PlayerId, true);
+    }
+}

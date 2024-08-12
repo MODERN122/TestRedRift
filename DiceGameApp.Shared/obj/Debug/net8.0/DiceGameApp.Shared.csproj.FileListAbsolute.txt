@@ -1,0 +1,11 @@
+C:\Projects\TestAspnet\DiceGameApp.Shared\bin\Debug\net8.0\DiceGameApp.Shared.deps.json
+C:\Projects\TestAspnet\DiceGameApp.Shared\bin\Debug\net8.0\DiceGameApp.Shared.dll
+C:\Projects\TestAspnet\DiceGameApp.Shared\bin\Debug\net8.0\DiceGameApp.Shared.pdb
+C:\Projects\TestAspnet\DiceGameApp.Shared\obj\Debug\net8.0\DiceGameApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TestAspnet\DiceGameApp.Shared\obj\Debug\net8.0\DiceGameApp.Shared.AssemblyInfoInputs.cache
+C:\Projects\TestAspnet\DiceGameApp.Shared\obj\Debug\net8.0\DiceGameApp.Shared.AssemblyInfo.cs
+C:\Projects\TestAspnet\DiceGameApp.Shared\obj\Debug\net8.0\DiceGameApp.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\TestAspnet\DiceGameApp.Shared\obj\Debug\net8.0\DiceGameApp.Shared.dll
+C:\Projects\TestAspnet\DiceGameApp.Shared\obj\Debug\net8.0\refint\DiceGameApp.Shared.dll
+C:\Projects\TestAspnet\DiceGameApp.Shared\obj\Debug\net8.0\DiceGameApp.Shared.pdb
+C:\Projects\TestAspnet\DiceGameApp.Shared\obj\Debug\net8.0\ref\DiceGameApp.Shared.dll

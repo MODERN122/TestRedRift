@@ -1,0 +1,20 @@
+﻿@page "/leaderboard"
+@using DiceGameApp.Shared
+@inject HttpClient Http
+
+<h3>Leaderboard</h3>
+<ul>
+    @foreach (var player in players)
+    {
+        <li>@player.Name: @player.Score</li>
+    }
+</ul>
+
+@code {
+    private List<Player> players = new List<Player>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        players = await Http.GetFromJsonAsync<List<Player>>("api/leaderboard") ?? new List<Player>();
+    }
+}

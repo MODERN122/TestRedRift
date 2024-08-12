@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EYgXvAMbk0+FJrIIEpkoKUAlU7om0exsHlOD5DwW4/U=",
+  "Source": "DiceGameApp.Server",
+  "BasePath": "_content/DiceGameApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

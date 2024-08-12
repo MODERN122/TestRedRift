@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\TestAspnet\\DiceGameApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\matchmakingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\imatchmakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219508C-794D-473E-8323-2EF590586742}|..\\DiceGameApp.Shared\\DiceGameApp.Shared.csproj|c:\\projects\\testaspnet\\dicegameapp.shared\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\pages\\leaderboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219508C-794D-473E-8323-2EF590586742}|..\\DiceGameApp.Shared\\DiceGameApp.Shared.csproj|c:\\projects\\testaspnet\\dicegameapp.shared\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219508C-794D-473E-8323-2EF590586742}|..\\DiceGameApp.Shared\\DiceGameApp.Shared.csproj|c:\\projects\\testaspnet\\dicegameapp.shared\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\pages\\game.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\migrations\\20240809141835_initialcreatepostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\dicegameapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\dicegameapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\dicegameapp.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B23C2B-08D3-4C0A-8243-D38C835503BC}|..\\DiceGameApp.Client\\DiceGameApp.Client.csproj|c:\\projects\\testaspnet\\dicegameapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219508C-794D-473E-8323-2EF590586742}|..\\DiceGameApp.Shared\\DiceGameApp.Shared.csproj|c:\\projects\\testaspnet\\dicegameapp.shared\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E86B07-B946-499C-9AAD-3F608B15CDE9}|..\\DiceGameApp.Server\\DiceGameApp.Server.csproj|c:\\projects\\testaspnet\\dicegameapp.server\\dicegameapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T20:04:17.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Shared\\Player.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Shared\\Player.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Shared\\Player.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Shared\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:16:48.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\GameService.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\GameService.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\GameService.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\GameService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAqwGMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:22:45.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchMakingService.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\MatchMakingService.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\MatchMakingService.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\MatchMakingService.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\MatchMakingService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:43:14.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Turn.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Shared\\Turn.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Shared\\Turn.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Shared\\Turn.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Shared\\Turn.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:19:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\Program.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\Program.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwD4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:14:40.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAnwCsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:32:56.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameHub.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\GameHub.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\GameHub.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\GameHub.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\GameHub.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:00:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\IGameService.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\IGameService.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\IGameService.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\IGameService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:22:20.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMatchmakerService.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\IMatchmakerService.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\IMatchmakerService.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\IMatchmakerService.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\IMatchmakerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:18:15.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaderBoard.razor",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Pages\\LeaderBoard.razor",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\Pages\\LeaderBoard.razor",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Pages\\LeaderBoard.razor",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\Pages\\LeaderBoard.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T13:51:51.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\App.razor",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\App.razor",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\App.razor",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T20:03:12.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\_Imports.razor",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\_Imports.razor",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T20:04:09.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T13:35:46.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Shared\\GameSession.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Shared\\GameSession.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Shared\\GameSession.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Shared\\GameSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:17:17.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Game.razor",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Pages\\Game.razor",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\Pages\\Game.razor",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Pages\\Game.razor",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\Pages\\Game.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T13:40:51.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T15:59:42.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:23:59.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240809141835_InitialCreatePostgres.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\Migrations\\20240809141835_InitialCreatePostgres.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\Migrations\\20240809141835_InitialCreatePostgres.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\Migrations\\20240809141835_InitialCreatePostgres.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\Migrations\\20240809141835_InitialCreatePostgres.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:23:51.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\appsettings.json",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T14:05:14.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T14:05:19.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiceGameApp.Server",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\DiceGameApp.Server.csproj",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\DiceGameApp.Server.csproj",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\DiceGameApp.Server.csproj",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\DiceGameApp.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T13:57:05.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiceGameApp.Server.csproj",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\DiceGameApp.Server.csproj",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\DiceGameApp.Server.csproj",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\DiceGameApp.Server.csproj",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\DiceGameApp.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T13:55:04.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DiceGameApp.Client.csproj",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\DiceGameApp.Client.csproj",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\DiceGameApp.Client.csproj",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\DiceGameApp.Client.csproj",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\DiceGameApp.Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T13:55:02.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Client\\Program.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Client\\Program.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:39:16.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Shared\\Dice.cs",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Shared\\Dice.cs",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Shared\\Dice.cs",
+              "RelativeToolTip": "..\\DiceGameApp.Shared\\Dice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:17:34.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DiceGameApp.Server.http",
+              "DocumentMoniker": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\DiceGameApp.Server.http",
+              "RelativeDocumentMoniker": "..\\DiceGameApp.Server\\DiceGameApp.Server.http",
+              "ToolTip": "C:\\Projects\\TestAspnet\\DiceGameApp.Server\\DiceGameApp.Server.http",
+              "RelativeToolTip": "..\\DiceGameApp.Server\\DiceGameApp.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-09T12:15:06.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

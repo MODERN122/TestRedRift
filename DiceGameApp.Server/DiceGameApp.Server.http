@@ -1,0 +1,6 @@
+@DiceGameApp.Server_HostAddress = http://localhost:5263
+
+GET {{DiceGameApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

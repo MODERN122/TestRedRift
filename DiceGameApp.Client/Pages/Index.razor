@@ -1,0 +1,20 @@
+﻿@page "/"
+@using DiceGameApp.Shared
+@inject NavigationManager Navigation
+@inject HttpClient Http
+
+<h3>Matchmaking</h3>
+<input @bind-value="Name">PlayerName</input>
+<button @onclick="StartGame">Play</button>
+
+@code {
+    [SupplyParameterFromForm]
+    private string Name { get; set; } = "";
+
+    private async Task StartGame()
+    {
+        var session = await Http.GetFromJsonAsync<GameSession>($"api/matchmaker/{Name}");
+        var playerId = session!.Player2Id != null ? session.Player2Id : session.Player1Id;
+        Navigation.NavigateTo($"/game/{session.Id}/{playerId}");
+    }
+}
